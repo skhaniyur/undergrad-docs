@@ -1,5 +1,7 @@
 # Storage Repository for Project Documents
 
+I created this repository to store documents that I link to from my personal website: [www.skhaniyur.com](www.skhaniyur.com)
+
 ## Documents:
 - [Data Science Research Poster](https://github.com/skhaniyur/undergrad-docs/blob/master/RTG%20Poster.pdf) - Created models to provide reliable solar irradiance forecasts for Sacramento county
 
